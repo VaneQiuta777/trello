@@ -1,0 +1,12 @@
+.inner-addon {
+    position: relative;
+  }
+  .inner-addon .fa {
+    position: absolute;
+    margin-left: 180px;
+    padding: 2px;
+    pointer-events: none;
+  }
+  .right-addon input {
+    padding-right: 40px;
+  }
